@@ -8,12 +8,8 @@ VIUK-Lightは、SwiftUIアプリ、オンデバイスAI、生成AI、AIモデル
 
 ## Projects
 
-| Project | Description | Status |
-| --- | --- | --- |
-| [Kizuna](https://github.com/VIUK-Light/Kizuna) | 利用者の現実生活と意思を尊重しながら、AIキャラクターとの関係や物語を育てるSwiftUIアプリ | Active development |
-| [Yohaku Journal](https://github.com/VIUK-Light/Yohaku-Journal) | 日記、観察、非診断的な振り返り、心の健康に関する情報をまとめたローカル中心のジャーナルアプリ | Pre-release development |
-| [VIUK One](https://github.com/VIUK-Light/VIUK-one) | Web、学習、AI支援、ストーリー体験を一つのワークスペースから扱うSwiftUIアプリ | Experimental / Active development |
-| [Science Club One2](https://github.com/VIUK-Light/ScienceClubOne) | 科学部向けに開発した実験記録、補助ツール、学習機能を含むiOSアプリの公開・保守版 | Maintenance / Reference |
+- [Kizuna — キャラクターとの関係と物語](https://github.com/VIUK-Light/Kizuna)
+- [Yohaku Journal — 日記と静かな振り返り](https://github.com/VIUK-Light/Yohaku-Journal)
 
 ## What we build
 
