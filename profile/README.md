@@ -79,7 +79,3 @@ Issueへログやスクリーンショットを投稿する際は、次の情報
 VIUKという名前は、2022年に個人のプログラミング活動から始まりました。小さなアプリ開発から、SwiftUI、オンデバイスAI、生成AI、モデル・データセット開発へ活動範囲が広がり、現在のVIUK-Lightにつながっています。
 
 一人のために作られた小さな技術であっても、その人の未来を少し明るくできるなら、そこには意味があります。ただし、他者の権利、安全、信頼を踏み越えてまで実現することはしません。
-
-## Links
-
-[Hugging Face](https://huggingface.co/Shirokuma-VIUK) · [Qiita](https://qiita.com/viuk) · [Zenn](https://zenn.dev/viuk_sirokuma)
