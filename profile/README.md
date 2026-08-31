@@ -2,14 +2,28 @@
 
 > **暗闇を照らす。明るい未来へ。**
 
-VIUK-Lightは、SwiftUIアプリ、オンデバイスAI、生成AI、AIモデル・データセットを開発するオープンソースプロジェクトです。
+VIUK-Lightは、SwiftUIアプリ、Webアプリ、オンデバイスAI、生成AI、AIモデル・データセットを開発するオープンソースプロジェクトです。
+
+現在は、社会や価値観、身近な関係について対話するための**Omoiシリーズ**を中心に開発しています。
 
 便利さや性能だけではなく、**安全性、透明性、プライバシー、利用者の意思と尊厳**を重視しています。技術によって人を必要以上に引き留めたり、不安や孤独につけ込んだりするのではなく、人が自分で考え、選び、前へ進むための選択肢をつくります。
 
 ## Projects
 
-- [Kizuna — キャラクターとの関係と物語](https://github.com/VIUK-Light/Kizuna)
-- [Yohaku Journal — 日記と静かな振り返り](https://github.com/VIUK-Light/Yohaku-Journal)
+### Active development
+
+- [Omoi — 社会や価値観について話すための質問カード](https://github.com/VIUK-Light/Omoi)
+- [Omoi for — Couples / Family / Friendsのための会話プロダクト群](https://github.com/VIUK-Light/Take-for)
+
+### Maintenance
+
+- [Kizuna — キャラクターとの関係と物語](https://github.com/VIUK-Light/Kizuna)  
+  新機能開発は最小限とし、主に重大な不具合やセキュリティ上の問題への対応を行います。
+
+### Inactive
+
+- **Yohaku Journal — 日記と静かな振り返り**  
+  公開を停止し、現在は開発も実質的に停止しています。
 
 ## What we build
 
@@ -56,6 +70,7 @@ VIUK-Lightでは、次のような設計を避けます。
 
 - Swift / SwiftUI / SwiftData
 - iOS / iPadOS / macOS / Mac Catalyst
+- Web applications
 - Local AI / On-device AI
 - Generative AI applications
 - Model and dataset development
