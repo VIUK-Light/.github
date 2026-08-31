@@ -20,11 +20,6 @@ VIUK-Lightは、SwiftUIアプリ、Webアプリ、オンデバイスAI、生成A
 - [Kizuna — キャラクターとの関係と物語](https://github.com/VIUK-Light/Kizuna)  
   新機能開発は最小限とし、主に重大な不具合やセキュリティ上の問題への対応を行います。
 
-### Inactive
-
-- **Yohaku Journal — 日記と静かな振り返り**  
-  公開を停止し、現在は開発も実質的に停止しています。
-
 ## What we build
 
 ### Responsible AI
