@@ -1,20 +1,81 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/VIUK-Light/.github/main/assets/viuk-header.svg" width="100%" alt="VIUK-Light — 暗い部分を照らす。明るい未来へ。">
-  <p></p>
-  人が自分で考え、選び、前へ進むためのオープンソース。<br>
-  <a href="https://viuk-light.org/">viuk-light.org</a>
-</div>
-<p></p>
-<table>
-  <tr>
-    <td width="33%">
-      <a href="https://omoi.viuk-light.org"><img src="card-omoi.svg" alt="Omoi"></a>
-    </td>
-    <td width="33%">
-      <a href="https://omoi-for.viuk-light.org"><img src="card-takefor.svg" alt="Take-for"></a>
-    </td>
-    <td width="33%">
-      <a href="https://github.com/VIUK-Light/Kizuna"><img src="card-kizuna.svg" alt="Kizuna"></a>
-    </td>
-  </tr>
-</table>
+# VIUK-Light
+
+> **暗闇を照らす。明るい未来へ。**
+
+VIUK-Lightは、SwiftUIアプリ、オンデバイスAI、生成AI、AIモデル・データセットを開発するオープンソースプロジェクトです。
+
+便利さや性能だけではなく、**安全性、透明性、プライバシー、利用者の意思と尊厳**を重視しています。技術によって人を必要以上に引き留めたり、不安や孤独につけ込んだりするのではなく、人が自分で考え、選び、前へ進むための選択肢をつくります。
+
+## Projects
+
+- [Kizuna — キャラクターとの関係と物語](https://github.com/VIUK-Light/Kizuna)
+- [Yohaku Journal — 日記と静かな振り返り](https://github.com/VIUK-Light/Yohaku-Journal)
+
+## What we build
+
+### Responsible AI
+
+- 利用者の意思や判断を奪わないAI体験
+- 依存や感情操作を目的にしないキャラクターAI
+- ローカルモデルと外部APIを選択・分離できる設計
+- モデル、接続先、記憶、保存データを利用者が管理できる構成
+- 安全性を理由に体験をすべて失わせず、危険度と文脈に応じて対応する設計
+
+### Privacy-conscious applications
+
+- 必要以上の個人情報を収集しない
+- 端末内処理とローカル保存を優先する
+- 認証情報や秘密情報をソースコードへ含めない
+- 保存、削除、書き出し、バックアップを利用者自身が管理できるようにする
+- 機密性の高いデータを扱う機能では、制限と未検証事項を明示する
+
+### Open development
+
+- アプリケーション、AIモデル、データセット、設計思想を可能な範囲で公開する
+- 成果だけでなく、失敗、制限、残存リスクも記録する
+- Issue、Pull Request、レビューを通じて改善する
+- 第三者のサービス、API、データ、権利、利用規約を尊重する
+
+## Principles
+
+VIUK-Lightでは、次のような設計を避けます。
+
+- 不安を与えてアプリへ戻らせる
+- AIだけを頼るよう促す
+- 継続日数、ランキング、過度な通知で利用を強制する
+- AIを人間だと偽り、できない行動を実行したように見せる
+- 点数だけで病名、重症度、他人の感情を断定する
+- 問題、限界、外部通信、データ利用を隠す
+- 許可されていない方法で第三者のシステムを操作する
+
+技術的に可能であることと、実際に行ってよいことは同じではありません。新しい機能を実装する際は、利用者だけでなく、サービス運営者、開発者、社会全体への影響も検討します。
+
+## Technology
+
+主に次の技術領域で開発しています。
+
+- Swift / SwiftUI / SwiftData
+- iOS / iPadOS / macOS / Mac Catalyst
+- Local AI / On-device AI
+- Generative AI applications
+- Model and dataset development
+- GitHub Actionsによるテストと自動化
+
+## Contributing
+
+バグ報告、機能提案、ドキュメント改善、翻訳、テスト、Pull Requestを歓迎します。
+
+参加する前に、各リポジトリのREADME、ライセンス、Issue、コントリビューション方針を確認してください。プロジェクトによって、対応OS、Xcodeバージョン、モデルファイル、外部APIなどの要件が異なります。
+
+Issueへログやスクリーンショットを投稿する際は、次の情報を除いてください。
+
+- APIキー、アクセストークン、認証情報
+- 日記、会話履歴、健康情報などの機密データ
+- 第三者の個人情報
+- 非公開のモデル、データセット、サービス情報
+
+## Background
+
+VIUKという名前は、2022年に個人のプログラミング活動から始まりました。小さなアプリ開発から、SwiftUI、オンデバイスAI、生成AI、モデル・データセット開発へ活動範囲が広がり、現在のVIUK-Lightにつながっています。
+
+一人のために作られた小さな技術であっても、その人の未来を少し明るくできるなら、そこには意味があります。ただし、他者の権利、安全、信頼を踏み越えてまで実現することはしません。
